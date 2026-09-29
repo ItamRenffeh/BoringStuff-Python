@@ -1,0 +1,6 @@
+2026-09-08 02:14:10 - Failed login attempt from 45.170.23.11
+2026-09-08 02:15:01 - Success: user j.gomez_log logged in from 45.170.23.11
+Contact: soporte@empresa.com for questions
+2026-09-08 03:12:45 - Alert sent to admin.security@empresa.com
+Unrelated line without any pattern.
+Internal IP 10.0.2.50 attempted login at 2026-09-08 08:05:00
