@@ -23,7 +23,9 @@ time.sleep(1)
 # 2. ABRIR EL NAVEGADOR
 paginas = [
     'https://music.youtube.com',
-    'https://www.google.com'  # Pestaña en blanco/buscador
+    'https://www.google.com',  # Pestaña en blanco/buscador
+    'https://gemini.google.com'
+    
 ]
 
 print("Abriendo pestañas...")
